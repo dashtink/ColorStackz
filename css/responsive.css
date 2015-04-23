@@ -1,0 +1,15 @@
+@media (max-width:767px) { 
+
+body {
+margin-top: 175px;
+}
+
+header {
+  text-align: center;
+}
+
+.customBtn {
+ width: 40%;
+}
+
+}
