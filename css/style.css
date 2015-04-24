@@ -24,12 +24,12 @@ body {
   margin-left: 10px;  
 }
 
-a {
+a,
+a:hover {
   color: #505050;
 }
 
 a:hover {
-  color: #505050;
   text-decoration: none;
 }
 
@@ -39,36 +39,11 @@ a:hover {
 
 /***** COLOR BARS *****/
 
-#colorBar1 {
-  height: 100px;
-  width: 100%;
-  text-align: center;
-}
-
-#colorBar2 {
-  height: 100px;
-  width: 100%;
-  text-align: center;
-}
-
-#colorBar3 {
-  height: 100px;
-  width: 100%;
-  text-align: center;
-}
-
-#colorBar4 {
-  height: 100px;
-  width: 100%;
-  text-align: center;
-}
-
-#colorBar5 {
-  height: 100px;
-  width: 100%;
-  text-align: center;
-}
-
+#colorBar1,
+#colorBar2,
+#colorBar3,
+#colorBar4,
+#colorBar5,
 #colorBar6 {
   height: 100px;
   width: 100%;
